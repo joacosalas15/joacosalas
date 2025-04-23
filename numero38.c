@@ -2,7 +2,7 @@
 int main(){
     int i,suma,valor,promedio;
     suma=0;
-    for (i=1;i<=10;i++)
+    for (i=1;i<=15;i++)
     {
         printf("ingrese un valor: ");
         scanf("%i",&valor);
